@@ -1,5 +1,4 @@
 {
-  "ProblemId": 1,
-  "Argument": [ 1, 2, 3, 4, 5 ],
-  "Argument": 5
+  "ProblemId": 11,
+  "Argument": [ 1, 8, 6, 2, 5, 4, 8, 3, 7 ]
 }
